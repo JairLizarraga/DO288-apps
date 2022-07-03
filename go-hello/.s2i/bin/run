@@ -8,4 +8,5 @@
 #
 
 # Run the app
+echo "en español papiu"
 exec /opt/app-root/app --lang es
